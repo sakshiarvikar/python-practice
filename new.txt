@@ -1,0 +1,10 @@
+git clone repository http link (enter the folder in repository)
+git checkout -b "branch name" for creating branch
+git branch for branch main 
+
+
+git status 
+git add .
+git commit -m "message"
+git branch
+git push origin branch name
